@@ -1,0 +1,8 @@
+[package]
+name = "custom_attribute_sample"
+version = "0.1.0"
+authors = ["dalance@gmail.com"]
+edition = "2018"
+
+[dependencies]
+trace = { path = "./trace" }
